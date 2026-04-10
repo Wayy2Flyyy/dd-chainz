@@ -4,6 +4,25 @@ A basic **ox_inventory-based chain system** for FiveM.
 
 This resource uses **one base item** called `chains`, then handles individual chain variants through **metadata**.  
 Example: **Myles Chain** is not its own item name — it is one version of the `chains` item.
+```{
+    chainId = 'angel_chain',
+    label = 'Angel Chain',
+    description = 'A silver angel pendant.',
+    type = 'Neck Chain',
+    image = 'angel_chain.png',
+    componentId = 7,
+
+    male = {
+        drawable = 13,
+        texture = 0
+    },
+
+    female = {
+        drawable = 14,
+        texture = 0
+    }
+}
+``` 
 
 ---
 
