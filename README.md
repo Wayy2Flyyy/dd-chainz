@@ -36,8 +36,8 @@ This resource requires:
     client = {
         export = 'dd_chains.useChain'
     }
-},```
-
+},
+```
 ---
 
 ## Installation
