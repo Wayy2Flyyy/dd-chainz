@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 name 'dd_chains'
-author 'Daniel'
+author 'Wayy2Flyyy'
 description 'Basic ox_inventory chain item system'
 version '1.0.0'
 
