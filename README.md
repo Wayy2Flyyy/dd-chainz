@@ -25,7 +25,7 @@ This resource requires:
 
 - [ox_inventory](https://overextended.dev/)
 - [ox_lib](https://overextended.dev/)
-
+```
 ['chains'] = {
     label = 'Chains',
     weight = 150,
@@ -36,7 +36,7 @@ This resource requires:
     client = {
         export = 'dd_chains.useChain'
     }
-},
+},```
 
 ---
 
