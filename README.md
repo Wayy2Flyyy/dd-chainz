@@ -1,4 +1,4 @@
-# dd_chains
+# dd_chainz
 
 A basic **ox_inventory-based chain system** for FiveM.
 
@@ -46,4 +46,4 @@ Place the resource in your server resources folder.
 
 Example:
 ```txt
-resources/[standalone]/dd_chains
+resources/[standalone]/dd_chainz
